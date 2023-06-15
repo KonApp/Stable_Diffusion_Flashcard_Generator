@@ -1,0 +1,127 @@
+[
+    {
+        "id": "1",
+        "name": "Brushing teeth",
+        "prompt": "Toothbrush, illustration"
+    },
+    {
+        "id": "2",
+        "name": "Washing hands",
+        "prompt": "Washing hands"
+    },
+    {
+        "id": "3",
+        "name": "Washing face",
+        "prompt": "Child washing face, illustration"
+    },
+    {
+        "id": "4",
+        "name": "Taking a bath",
+        "prompt": "Shower, illustration"
+    },
+    {
+        "id": "5",
+        "name": "Eating food",
+        "prompt": "Child eating food, illustration"
+    },
+    {
+        "id": "6",
+        "name": "Drinking water",
+        "prompt": "Child drinking water, illustration"
+    },
+    {
+        "id": "7",
+        "name": "Toilet",
+        "prompt": "Toilet, illustration"
+    },
+    {
+        "id": "8",
+        "name": "Thumbs up",
+        "prompt": "Thumbs up, illustration"
+    },
+    {
+        "id": "9",
+        "name": "Thumbs down",
+        "prompt": "Thumbs down, illustration"
+    },
+    {
+        "id": "10",
+        "name": "Wear clothes",
+        "prompt": "Child wearing clothes, illustration"
+    },
+    {
+        "id": "11",
+        "name": "Shoes",
+        "prompt": "Shoes, illustration"
+    },
+    {
+        "id": "12",
+        "name": "Slippers",
+        "prompt": "Slippers, illustration"
+    },
+    {
+        "id": "13",
+        "name": "Happy",
+        "prompt": "Happy face, illustration"
+    },
+    {
+        "id": "14",
+        "name": "Sad",
+        "prompt": "Sad face, illustration"
+    },
+    {
+        "id": "15",
+        "name": "Angry",
+        "prompt": "Angry face, illustration"
+    },
+    {
+        "id": "16",
+        "name": "Scared",
+        "prompt": "Scared face, illustration"
+    },
+    {
+        "id": "17",
+        "name": "Tired",
+        "prompt": "Tired face, illustration"
+    },
+    {
+        "id": "18",
+        "name": "Sick",
+        "prompt": "Sick face, illustration"
+    },
+    {
+        "id": "19",
+        "name": "Sleep",
+        "prompt": "Child sleeping, illustration"
+    },
+    {
+        "id": "20",
+        "name": "Hungry",
+        "prompt": "Hungry face, illustration"
+    },
+    {
+        "id": "21",
+        "name": "Thirsty",
+        "prompt": "Thirsty face, illustration"
+    },
+    {
+        "id": "22",
+        "name": "Hot",
+        "prompt": "Hot face, illustration"
+    },
+    {
+        "id": "23",
+        "name": "Cold",
+        "prompt": "Cold face, illustration"
+    },
+    {
+        "id": "24",
+        "name": "Play",
+        "prompt": "Child playing, illustration"
+    },
+    {
+        "id": "25",
+        "name": "Follow me",
+        "prompt": "Follow me, illustration"
+    }
+]
